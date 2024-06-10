@@ -7,15 +7,3 @@ for(let i=0; i<arr.length;i++){
         }
     }
 }
-
-// let arr=[1,2,3,4,5,6,7,8]
-// sum=5;
-// for(let i=0;i<arr.length; i++){
-//     let sums=arr[i]+arr[i+1];
-//     if(sum==sums){
-//         console.log("true");
-//     }
-//     else{
-//         console.log("false");
-//     }
-// }
